@@ -1,0 +1,1 @@
+Group Project where I integrated the FPGA in the control software of quantum optics experiments. I uploaded the code corresponding to the method I mainly implemented. The project also involved coding in Verilog. The report of the project was published at https://www.research-collection.ethz.ch/handle/20.500.11850/668511
